@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sergey!
 - 👀 I’m interested in Web, Security
 - 🌱 I’m currently learning Spring (Framework, Web, Data, Security)
-- 💻 I’m looking for a full-time job (Java developer) in Moscow or remotely
 - 📫 You can contact me by:
   - E-mail: sergey.the.dev@gmail.com
   - Telegram: @s_riddararos
