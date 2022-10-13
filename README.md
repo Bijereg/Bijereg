@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergey, Software Engineer at Amazing Hiring!
+- 👋 Hi, I’m Sergey!
 - 📫 Feel free to write me:
   - E-mail: sergey.the.dev@gmail.com
   - Telegram: @s_riddararos
